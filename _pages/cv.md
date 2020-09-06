@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "My CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of California, Berkeley
+  * B.A. Molecular & Cell Biology (Neurobiology) with Honors, Minor in Comparative Ethnic Studies, 2018
+  * High Distinction (Magna Cum Laude)
+* The Johns Hopkins School of Medicine
+  * M.D. Candidate, expected 2022
 
 Work experience
 ======
