@@ -80,39 +80,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicholas Daneshvari"
+  name             : "Nick Daneshvari"
   avatar           : "profile.png"
   bio              : "Medical student at Johns Hopkins School of Medicine"
   location         : "Baltimore, Maryland"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "ndaneshvari@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
   facebook         :
-  foursquare       :
   github           : "ndaneshvari"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      :
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
+  linkedin         : 
+  orcid            : "https://orcid.org/0000-0002-6571-427X"
   twitter          :
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
   wikipedia        :
 
