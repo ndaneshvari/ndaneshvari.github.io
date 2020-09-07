@@ -18,7 +18,7 @@ Since 2012, I have been active in the cubing community as a competitor, organize
 
 
 | Event            | Single   | Average of 5    | Average of 12 | Average of 50 |
-| ---------------------  | ------------- | ------------- | ------------- | 
+| ---------------------  | ------------- | ------------- | ------------- | ------------- |
 | 3x3x3    | 5.80 s   | 8.11 s | 8.49 s | 9.48 s |
 | 2x2x2  | .51s   |   1.61s            | 1.81 s | 2.24 s  |
 | 4x4x4     | 37s   |   40s            | | |
