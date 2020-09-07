@@ -5,9 +5,6 @@ main:
      
   - title: "CV"
     url: /cv/
-
-  - title: "Talks"
-    url: /talks/    
     
   - title: "Cubing"
     url: /portfolio/
@@ -17,3 +14,7 @@ main:
     
   - title: "Guide"
     url: /markdown/
+    
+    
+  - title: "Contact"
+    url: /talks/    
