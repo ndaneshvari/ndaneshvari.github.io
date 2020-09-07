@@ -10,11 +10,11 @@ main:
     url: /cubing/
         
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
     
   - title: "Guide"
     url: /markdown/
     
     
   - title: "Contact"
-    url: /talks/    
+    url: /contact/    
