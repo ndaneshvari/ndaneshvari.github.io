@@ -13,13 +13,13 @@ redirect_from:
 Education
 ======
 ### University of California, Berkeley
-B.A. Molecular & Cell Biology with Honors
+#### B.A. Molecular & Cell Biology with Honors
 * Neurobiology emphasis
 
-Minor in Comparative Ethnic Studies
+#### Minor in Comparative Ethnic Studies
 
-Magna Cum Laude\
-Class of 2018
+* Magna Cum Laude
+* Class of 2018
 
 ### The Johns Hopkins University School of Medicine
 M.D. Candidate\
