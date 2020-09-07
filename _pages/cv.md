@@ -10,20 +10,18 @@ redirect_from:
 {% include base_path %}
 
 ***
+
 Education
 ======
 ### University of California, Berkeley
-#### B.A. Molecular & Cell Biology with Honors
-* Neurobiology emphasis
-
-#### Minor in Comparative Ethnic Studies
-
+#### B.A. Molecular & Cell Biology (Neurobiology)
+##### Minor in Comparative Ethnic Studies
 * Magna Cum Laude
 * Class of 2018
 
 ### The Johns Hopkins University School of Medicine
-M.D. Candidate\
-Class of 2022
+* M.D. Candidate
+* Class of 2022
 
 Work experience
 ======
