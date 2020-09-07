@@ -16,4 +16,9 @@ Since 2012, I have been active in the cubing community as a competitor, organize
 
 ### My current records
 
-table
+
+| Event            | Single   | Average of 5    |
+| --------         | ------ | ------------- |
+| 3x3x3    | 5.80s   | 8.11s              |
+| 2x2x2  | .51s   |   1.61s            |
+| 4x4x4     | 37s   |   40s            |
