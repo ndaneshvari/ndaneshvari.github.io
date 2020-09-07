@@ -84,16 +84,17 @@ author:
   avatar           : "WCC Portrait Pic.JPG"
   bio              : "Medical Student at The Johns Hopkins School of Medicine"
   location         : "Baltimore, Maryland"
+  email            : "ndaneshvari@gmail.com" 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "ndaneshvari@gmail.com"
+
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   facebook         :
-  github           : "ndaneshvari"
   linkedin         : 
   orcid            : "https://orcid.org/0000-0002-6571-427X"
+  github           : "ndaneshvari"
   twitter          :
   youtube          :
   wikipedia        :
