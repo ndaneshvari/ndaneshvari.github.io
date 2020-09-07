@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+***
 Education
 ======
 ### University of California, Berkeley
