@@ -15,3 +15,5 @@ I am a medical student, mental health advocate, and competitive Rubik's cuber.
 Hit me up
 -----
 Phone email etc
+
+**NOTE: THIS BAD BOY SITE IS IN PROGRESS**
