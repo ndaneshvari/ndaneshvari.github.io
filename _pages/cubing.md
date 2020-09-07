@@ -10,6 +10,6 @@ author_profile: true
 
 ***
 
-Here is my World Cube Association profile.
-https://www.worldcubeassociation.org/persons/2012DANE01
+[Click here](https://www.worldcubeassociation.org/persons/2012DANE01) to see my World Cube Association profile.
+
 
