@@ -13,15 +13,13 @@ redirect_from:
 
 Education
 ======
-### University of California, Berkeley
+### University of California, Berkeley, 2018
 #### B.A. Molecular & Cell Biology (Neurobiology)
-##### Minor in Comparative Ethnic Studies
+#### Minor in Comparative Ethnic Studies
 * Magna Cum Laude
-* Class of 2018
 
-### The Johns Hopkins University School of Medicine
+### The Johns Hopkins University School of Medicine, 2022
 * M.D. Candidate
-* Class of 2022
 
 Work experience
 ======
@@ -58,4 +56,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+### Student Wellness Initiative
+#### Co-President, 2019 - 2020
+* Organized events
+
+### Hopkins Psychiatry Interest Group
+#### Co-President, 2019-2020
+* Organized educational talks and events
+* Connected student body to psychiatry research and shadowing opportunities
