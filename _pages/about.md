@@ -16,4 +16,7 @@ Hit me up
 -----
 Phone email etc
 
+***
+
 **NOTE: THIS BAD BOY SITE IS IN PROGRESS**
+======
