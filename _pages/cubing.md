@@ -33,4 +33,4 @@ Since 2012, I have been active in the cubing community as a competitor, organize
 | Clock  | 11.x s  |   13.x s           | - | - |
 | 3x3x3 Fewest Moves  | 34 moves   |   35.67 moves*           | - | -  |
 
-* Mean of 3 used in place of average of 5
+*Mean of 3 used in place of average of 5
