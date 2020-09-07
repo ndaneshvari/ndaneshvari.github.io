@@ -164,7 +164,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  cubing:
     output: true
     permalink: /:collection/:path/
   talks:
