@@ -210,10 +210,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _cubing
   - scope:
       path: ""
-      type: portfolio
+      type: cubing
     values:
       layout: single
       author_profile: true
