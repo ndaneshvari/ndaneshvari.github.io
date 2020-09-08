@@ -1,0 +1,21 @@
+---
+layout: archive
+title: "Contact me!"
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.contact %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Feel free to reach out for anything. Happy to chat professionally or as friends.
+
+<form>      
+  <input name="name" type="text" class="feedback-input" placeholder="Name" />   
+  <input name="email" type="text" class="feedback-input" placeholder="Email" />
+  <textarea name="text" class="feedback-input" placeholder="Comment"></textarea>
+  <input type="submit" value="SUBMIT"/>
+</form>
